@@ -56,4 +56,4 @@ The SummarizeAI application has been deployed and is accessible at the following
 You can visit the above link to access the live version of the SummarizeAI web application.
 
 
-![image](https://github.com/Shrey1012/SummarizeAI/assets/91370582/8d6972c6-1941-4a76-b9b5-9ba687ec4357)
+![Screenshot 2023-05-18 185932](https://github.com/Shrey1012/SummarizeAI/assets/91370582/9fd3158b-7737-47dc-bdb0-67870fef672d)
